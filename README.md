@@ -337,6 +337,10 @@ If you're building something like this for your AI — or if you are an AI and s
 
 ---
 
+## Third-party guides
+
+- [StackChan × 糯叽机 beginner guide (mirrored)](guides/stackchan-nuojiji/) — written and field-tested by **浅默** ([chainbow524-ai](https://github.com/chainbow524-ai/stackchan-nuojiji-guide)): a VPS MCP gateway plus firmware/display changes that let a Nuojiji character take photos, show subtitles, switch expressions, and auto-blink. The upstream guide is document-licensed for non-commercial share/modify with attribution; see its `LICENSE-DOCS.md`. This repository keeps a snapshot for offline reading; the firmware binary is not mirrored.
+
 ## License
 
 [MIT](LICENSE). Third-party code and binary-distribution considerations are
